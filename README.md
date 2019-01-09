@@ -1,3 +1,4 @@
 # cmput301-project-winter2019
-Learning git
-Hi
+Learning git /n
+Hi person!
+
